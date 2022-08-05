@@ -1,5 +1,5 @@
 # Challenge_21_BlockChain_Coin_Creation
-The objective of this challenge is to develop a monetary system for a Mars colony utilziing Blockchain technology. So I have define a new cryptocurrency called KaseiCoin that will be utilzied as that new monetary system.
+The objective of this challenge is to develop a monetary system for a Mars colony utilziing Blockchain technology. So I have created a new cryptocurrency called KaseiCoin that will be utilzied for this new monetary system.
 
 ---
 
